@@ -1,2 +1,2 @@
-# sitename2.com/index.html
-sitename2.com/index.html
+# sitename2.com
+sitename2.com
